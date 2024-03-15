@@ -1,5 +1,8 @@
 ## FAKE JOB POSTING
 
+### WELCOME TO MY MACHINE LEARNING REPOSITORY
+
+
 ### Overview
 This repository contains a machine learning project focused on detecting fraudulent job postings. The project utilizes various machine learning models, including Random Forest and Support Vector Machine (SVM), to classify job postings as fraudulent or legitimate based on several features.
 
