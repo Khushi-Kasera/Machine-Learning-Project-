@@ -35,8 +35,8 @@ The project directory is organized as follows:
 - `README.md`: This file.
 
 ### Usage
-To use this project, follow these steps:
-2. Install the required dependencies listed in `requirements.txt`.
-3. Navigate to the appropriate directory (`notebooks/` or `src/`) to run the desired scripts or notebooks.
-4. Execute the scripts or run the notebooks to train models, evaluate performance, and make predictions.
+- To use this project, follow these steps:
+1. Install the required dependencies listed in `requirements.txt`.
+2. Navigate to the appropriate directory (`notebooks/` or `src/`) to run the desired scripts or notebooks.
+3. Execute the scripts or run the notebooks to train models, evaluate performance, and make predictions.
 
